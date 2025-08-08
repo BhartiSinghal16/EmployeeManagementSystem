@@ -14,20 +14,6 @@ A simple web-based Employee Management System built with **Flask** and **SQLite*
 - 📝 **Edit** existing employee details
 - ❌ **Delete** employees
 - 💡 Clean and responsive UI with **Bootstrap**
+  
 
----
-
-## 🚀 Getting Started
-
-Follow these steps to set up and run the project locally:
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/EmployeeManagementSystem.git
-cd EmployeeManagementSystem
-
-2️⃣ Create a virtual environment (recommended)
-python -m venv venv
-venv\Scripts\activate      # On Windows
-source venv/bin/activate   # On Linux/Mac
 
