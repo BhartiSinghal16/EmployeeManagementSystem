@@ -25,3 +25,9 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/<your-username>/EmployeeManagementSystem.git
 cd EmployeeManagementSystem
+
+2️⃣ Create a virtual environment (recommended)
+python -m venv venv
+venv\Scripts\activate      # On Windows
+source venv/bin/activate   # On Linux/Mac
+
